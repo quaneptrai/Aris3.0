@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "Aris3._0.Controllers.CategoryController",
+    "Method": "GetAllNewUpdateCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Aris3._0.Controllers.CategoryController",
+    "Method": "UpdateCategoryToTable",
+    "RelativePath": "api/Category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Aris3._0.Controllers.FilmController",
+    "Method": "GetAllNewUpdatedFilmToDb",
+    "RelativePath": "api/Film",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Aris3._0.Controllers.FilmController",
+    "Method": "GetAllFromDb",
+    "RelativePath": "api/Film/From-Db",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Aris3._0.Controllers.FilmController",
+    "Method": "GetFilmsBySlug",
+    "RelativePath": "api/Film/slug/{slug}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slug",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Aris3._0.Controllers.FilmController",
+    "Method": "GetFilmToDb",
+    "RelativePath": "api/Film/slug/{slug}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slug",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

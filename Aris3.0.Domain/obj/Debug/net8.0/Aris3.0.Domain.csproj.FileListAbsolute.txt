@@ -1,0 +1,14 @@
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\bin\Debug\net8.0\Aris3.0.Domain.deps.json
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\bin\Debug\net8.0\Aris3.0.Domain.runtimeconfig.json
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.csproj.AssemblyReference.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.AssemblyInfoInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.AssemblyInfo.cs
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.csproj.CoreCompileInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\refint\Aris3.0.Domain.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\Aris3.0.Domain.genruntimeconfig.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Domain\obj\Debug\net8.0\ref\Aris3.0.Domain.dll
