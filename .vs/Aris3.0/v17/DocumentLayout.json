@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder (2)\\Aris3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\new folder (2)\\aris3.0\\aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\new folder (2)\\aris3.0\\aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\migrations\\20250730144719_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\migrations\\20250730144719_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T15:27:28.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Aris3.0Fe\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T15:17:03.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:16:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Program.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Program.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:09:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewFilmToDb.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:07:19.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:52:30.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250730144719_DbInitialized.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:47:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArisDbContextFactory.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:40:15.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArisDbContextFactory.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:39:44.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArisDbContext.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:39:41.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\appsettings.json",
+              "RelativeDocumentMoniker": "Aris3.0\\appsettings.json",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\appsettings.json",
+              "RelativeToolTip": "Aris3.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T14:38:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArisDbContext.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:40:13.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\appsettings.json",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\appsettings.json",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\appsettings.json",
+              "RelativeToolTip": "Aris3.0Fe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T14:41:49.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Program.cs",
+              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\Program.cs",
+              "RelativeToolTip": "Aris3.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:39:31.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

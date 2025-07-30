@@ -4111,23 +4111,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\quandm1\\.nuget\\packages\\": {},
+    "C:\\Users\\tohka\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aris3.0\\Aris3.0\\Aris3.0.Domain\\Aris3.0.Domain.csproj",
+      "projectUniqueName": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Domain\\Aris3.0.Domain.csproj",
       "projectName": "Aris3.0.Domain",
-      "projectPath": "C:\\Aris3.0\\Aris3.0\\Aris3.0.Domain\\Aris3.0.Domain.csproj",
-      "packagesPath": "C:\\Users\\quandm1\\.nuget\\packages\\",
-      "outputPath": "C:\\Aris3.0\\Aris3.0\\Aris3.0.Domain\\obj\\",
+      "projectPath": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Domain\\Aris3.0.Domain.csproj",
+      "packagesPath": "C:\\Users\\tohka\\.nuget\\packages\\",
+      "outputPath": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\quandm1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tohka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4154,7 +4154,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4203,7 +4203,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

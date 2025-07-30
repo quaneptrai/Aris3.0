@@ -37,17 +37,11 @@ namespace Aris3._0Fe.Controllers
             var response = await _httpClient.PostAsync("https://localhost:7248/api/film", null);
 
             var resultJson = await response.Content.ReadAsStringAsync();
-            var result = JsonConvert.DeserializeObject<ImportResponse>(resultJson);
 
-            TempData["Message"] = result?.msg ?? $"Call failed with status {response.StatusCode}";
             return RedirectToAction("Index");
         }
 
 
-        public class ImportResponse
-        {
-            public bool status { get; set; }
-            public string msg { get; set; }
-        }
+
     }
-    }
+}

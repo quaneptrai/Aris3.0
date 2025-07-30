@@ -1,4 +1,5 @@
 using Aris3._0.Infrastructure.Data.Context;
+using Aris3._0Fe.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace Aris3._0Fe
@@ -11,6 +12,7 @@ namespace Aris3._0Fe
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddHostedService<AddNewFilmToDb>();
             builder.Services.AddHttpClient();
             builder.Services.AddDbContextPool<ArisDbContext>(options =>
             {

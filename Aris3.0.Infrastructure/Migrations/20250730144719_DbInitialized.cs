@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Aris3._0Fe.Migrations
+namespace Aris3._0.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class BigStep : Migration
+    public partial class DbInitialized : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
