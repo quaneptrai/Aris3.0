@@ -13,7 +13,7 @@ namespace Aris3._0.Infrastructure.Data.Context
         public ArisDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<ArisDbContext>();
-            optionsBuilder.UseSqlServer("Server=Aris;Database=Aris3.0;Trusted_Connection=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=QUANDM1;Database=Aris3.0;Trusted_Connection=True;TrustServerCertificate=True");
             return new ArisDbContext(optionsBuilder.Options);
         }
     }

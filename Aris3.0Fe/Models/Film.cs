@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -56,6 +57,7 @@ namespace Aris3._0Fe.Models
         [JsonProperty("view")]
         public int View { get; set; }
         [JsonProperty("director")]
+        [NotMapped]
         public List<string> Director { get; set; } = new List<string>();
         public ICollection<Actor> Actors { get; set; } = new List<Actor>();
 

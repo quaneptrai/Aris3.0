@@ -1,62 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\New folder (2)\\Aris3.0\\",
+  "WorkspaceRootPath": "C:\\ArisNewGen\\Aris3.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\shared\\components\\categorydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\components\\categorydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.infrastructure\\data\\configurations\\filmconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\configurations\\filmconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\models\\director.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\models\\director.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\viewcomponents\\categorydropdownviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\viewcomponents\\categorydropdownviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\arisnewgen\\aris3.0\\aris3.0\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\new folder (2)\\aris3.0\\aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\new folder (2)\\aris3.0\\aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.domain\\entities\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\new folder (2)\\aris3.0\\aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\arisnewgen\\aris3.0\\aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\new folder (2)\\aris3.0\\aris3.0.infrastructure\\migrations\\20250730144719_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\migrations\\20250730144719_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\arisnewgen\\aris3.0\\aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\arisnewgen\\aris3.0\\aris3.0.infrastructure\\migrations\\20250731021728_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\migrations\\20250731021728_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\arisnewgen\\aris3.0\\aris3.0fe\\migrations\\20250731014820_bigstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\migrations\\20250731014820_bigstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,126 +146,361 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-30T15:27:28.334Z",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T08:18:08.06Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:07:21.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T04:52:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T02:29:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Aris3.0Fe\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Aris3.0Fe\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-30T15:17:03.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-30T15:16:01.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:51:43.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Program.cs",
-              "RelativeDocumentMoniker": "Aris3.0Fe\\Program.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Program.cs",
-              "RelativeToolTip": "Aris3.0Fe\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T15:09:28.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddNewFilmToDb.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
-              "RelativeDocumentMoniker": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
-              "RelativeToolTip": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T15:07:19.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aris3.0Fe\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Aris3.0Fe\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:52:30.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250730144719_DbInitialized.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
-              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
-              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250730144719_DbInitialized.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:47:19.514Z"
+              "WhenOpened": "2025-07-30T14:52:30.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Models\\Film.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Models\\Film.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Models\\Film.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:46:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Director.cs.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Models\\Director.cs.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Models\\Director.cs.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Models\\Director.cs.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Models\\Director.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:49:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmConfigure.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:08:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Aris3.0Fe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAOYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-31T06:57:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryDropdownViewComponent.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\ViewComponents\\CategoryDropdownViewComponent.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\ViewComponents\\CategoryDropdownViewComponent.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\ViewComponents\\CategoryDropdownViewComponent.cs",
+              "RelativeToolTip": "Aris3.0Fe\\ViewComponents\\CategoryDropdownViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:10:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Aris3.0\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:57:26.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArisDbContext.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:40:13.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Director.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Director.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Director.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:56:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Film.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Film.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Film.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Film.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:53:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ArisDbContextFactory.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
               "RelativeDocumentMoniker": "Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
               "RelativeToolTip": "Aris3.0Fe\\Data\\Context\\ArisDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T14:40:15.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 31,
+              "Title": "20250731021728_DbInitialized.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731021728_DbInitialized.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250731021728_DbInitialized.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731021728_DbInitialized.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250731021728_DbInitialized.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAAAIQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:17:28.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Program.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\Program.cs",
+              "RelativeToolTip": "Aris3.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:39:31.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ArisDbContextFactory.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
               "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
               "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T14:39:44.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:12:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250731021019_ChangingFilmConfiguration.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250731021019_ChangingFilmConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:10:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250731020605_TryingUwU.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250731020605_TryingUwU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:06:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250731015916_Trying.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250731015916_Trying.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:59:16.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250731015838_MakingAEffortForDirector.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250731015838_MakingAEffortForDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:58:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250731014820_BigStep.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Migrations\\20250731014820_BigStep.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Migrations\\20250731014820_BigStep.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Migrations\\20250731014820_BigStep.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Migrations\\20250731014820_BigStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:48:20.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddNewFilmToDb.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:07:19.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ArisDbContext.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
               "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
               "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,51 +508,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\appsettings.json",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\appsettings.json",
               "RelativeDocumentMoniker": "Aris3.0\\appsettings.json",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\appsettings.json",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0\\appsettings.json",
               "RelativeToolTip": "Aris3.0\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-30T14:38:29.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ArisDbContext.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
-              "RelativeDocumentMoniker": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
-              "RelativeToolTip": "Aris3.0Fe\\Data\\Context\\ArisDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:40:13.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\appsettings.json",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\appsettings.json",
               "RelativeDocumentMoniker": "Aris3.0Fe\\appsettings.json",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0Fe\\appsettings.json",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\appsettings.json",
               "RelativeToolTip": "Aris3.0Fe\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-30T14:41:49.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\Program.cs",
-              "RelativeDocumentMoniker": "Aris3.0\\Program.cs",
-              "ToolTip": "C:\\New folder (2)\\Aris3.0\\Aris3.0\\Program.cs",
-              "RelativeToolTip": "Aris3.0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Program.cs",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Program.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:39:31.243Z"
+              "WhenOpened": "2025-07-30T15:09:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\ArisNewGen\\Aris3.0\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T15:27:28.334Z"
             }
           ]
         }

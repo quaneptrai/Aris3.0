@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Aris3._0.Infrastructure.Migrations
+namespace Aris3._0Fe.Migrations
 {
     /// <inheritdoc />
-    public partial class DbInitialized : Migration
+    public partial class BigStep : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -151,7 +151,7 @@ namespace Aris3._0.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "ActorFilms",
+                name: "ActorFilm",
                 columns: table => new
                 {
                     Actorsid = table.Column<int>(type: "int", nullable: false),
@@ -159,17 +159,41 @@ namespace Aris3._0.Infrastructure.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ActorFilms", x => new { x.Actorsid, x.FilmsId });
+                    table.PrimaryKey("PK_ActorFilm", x => new { x.Actorsid, x.FilmsId });
                     table.ForeignKey(
-                        name: "FK_ActorFilms_Actors_Actorsid",
+                        name: "FK_ActorFilm_Actors_Actorsid",
                         column: x => x.Actorsid,
                         principalTable: "Actors",
                         principalColumn: "id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_ActorFilms_Films_FilmsId",
+                        name: "FK_ActorFilm_Films_FilmsId",
                         column: x => x.FilmsId,
                         principalTable: "Films",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "CategoryFilm",
+                columns: table => new
+                {
+                    CategoriesId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    FilmsId = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CategoryFilm", x => new { x.CategoriesId, x.FilmsId });
+                    table.ForeignKey(
+                        name: "FK_CategoryFilm_Films_FilmsId",
+                        column: x => x.FilmsId,
+                        principalTable: "Films",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_CategoryFilm_categories_CategoriesId",
+                        column: x => x.CategoriesId,
+                        principalTable: "categories",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -219,30 +243,6 @@ namespace Aris3._0.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "FilmCategories",
-                columns: table => new
-                {
-                    CategoriesId = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    FilmsId = table.Column<string>(type: "nvarchar(450)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_FilmCategories", x => new { x.CategoriesId, x.FilmsId });
-                    table.ForeignKey(
-                        name: "FK_FilmCategories_Films_FilmsId",
-                        column: x => x.FilmsId,
-                        principalTable: "Films",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_FilmCategories_categories_CategoriesId",
-                        column: x => x.CategoriesId,
-                        principalTable: "categories",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "Servers",
                 columns: table => new
                 {
@@ -287,8 +287,13 @@ namespace Aris3._0.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_ActorFilms_FilmsId",
-                table: "ActorFilms",
+                name: "IX_ActorFilm_FilmsId",
+                table: "ActorFilm",
+                column: "FilmsId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_CategoryFilm_FilmsId",
+                table: "CategoryFilm",
                 column: "FilmsId");
 
             migrationBuilder.CreateIndex(
@@ -300,11 +305,6 @@ namespace Aris3._0.Infrastructure.Migrations
                 name: "IX_Episodes_FilmId",
                 table: "Episodes",
                 column: "FilmId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_FilmCategories_FilmsId",
-                table: "FilmCategories",
-                column: "FilmsId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Films_Createdid",
@@ -341,13 +341,13 @@ namespace Aris3._0.Infrastructure.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "ActorFilms");
+                name: "ActorFilm");
+
+            migrationBuilder.DropTable(
+                name: "CategoryFilm");
 
             migrationBuilder.DropTable(
                 name: "Countries");
-
-            migrationBuilder.DropTable(
-                name: "FilmCategories");
 
             migrationBuilder.DropTable(
                 name: "ServerDatas");

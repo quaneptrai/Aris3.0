@@ -26,35 +26,15 @@ namespace Aris3._0.Controllers
         [Route("slug/{slug}")]
         public async Task<IActionResult> GetFilmsBySlug(string slug)
         {
-            HttpResponseMessage response;
-            response = await client.GetAsync($"https://phimapi.com/phim/{slug}");
+            var request = new HttpRequestMessage(HttpMethod.Get, $"https://phimapi.com/phim/{slug}");
+            request.Headers.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+
+            HttpResponseMessage response = await client.SendAsync(request);
             if (!response.IsSuccessStatusCode)
                 return StatusCode((int)response.StatusCode, "Failed to fetch data");
-            var content = await response.Content.ReadAsStringAsync();
-            var jObj = JObject.Parse(content);
-            var movie = jObj["movie"];
-            if (movie == null)
-                return BadRequest("No Film Found");
-            var film = movie.ToObject<Film>();
-            var tmbd = movie["tmdb"] as JObject;
 
-            if (tmbd == null)
-            {
-                return Ok(new
-                {
-                    Movie = film,
-                    Tmbd = "No episode data"
-                });
-            }
-            else
-            {
-                var tmbd3 = tmbd.ToObject<Tmbd>();
-                return Ok(new
-                {
-                    Movie = film,
-                    Tmbd = tmbd3
-                });
-            }
+            var content = await response.Content.ReadAsStringAsync();
+            return Ok(content);
         }
         [HttpPost]
         [Route("slug/{slug}")]
@@ -62,22 +42,19 @@ namespace Aris3._0.Controllers
         {
             HttpResponseMessage response = await client.GetAsync($"https://phimapi.com/phim/{slug}");
             if (!response.IsSuccessStatusCode)
-                return StatusCode((int)response.StatusCode, "Failed to fetch data");
+                return BadRequest("Failed to fetch data !");
 
             var content = await response.Content.ReadAsStringAsync();
             var jObj = JObject.Parse(content);
             var movie = jObj["movie"];
             if (movie == null)
-                return BadRequest("No Film Found");
+                return BadRequest("No Film Found !");
 
             var tmbdToken = movie["tmdb"];
             var tmbdId = tmbdToken?["id"]?.ToString();
             var episodes = jObj["episodes"];
 
-            if (string.IsNullOrEmpty(tmbdId))
-                return BadRequest("Cannot add film with null TMDB id");
 
-            // Find film by tmbd.id
             var existingFilm = await _context.Films
                 .Include(f => f.Actors)
                 .Include(f => f.Categories)
@@ -86,32 +63,28 @@ namespace Aris3._0.Controllers
                 .FirstOrDefaultAsync(f => f.Tmdb != null && f.Tmdb.Id == tmbdId);
 
             var filmData = movie.ToObject<Film>();
-
-            // Cập nhật navigation properties
-            var actorNames = movie["actor"]?.ToObject<List<string>>() ?? new List<string>();
-            filmData.Actors = new List<Actor>();
-            foreach (var name in actorNames)
-            {
-                var actor = await _context.Actors.FirstOrDefaultAsync(a => a.Name == name)
-                            ?? new Actor { Name = name };
-                filmData.Actors.Add(actor);
-            }
-
+            // Process categories
             var categoryObjs = movie["category"]?.ToObject<List<JObject>>() ?? new List<JObject>();
             filmData.Categories = new List<Category>();
             foreach (var cat in categoryObjs)
             {
                 var slug1 = cat["slug"]?.ToString();
-                var existingCategory = await _context.categories.FirstOrDefaultAsync(c => c.Slug == slug1)
-                                       ?? new Category
-                                       {
-                                           Id = cat["id"]?.ToString(),
-                                           Name = cat["name"]?.ToString(),
-                                           Slug = slug1
-                                       };
-                filmData.Categories.Add(existingCategory);
+                Category category;
+                category = await _context.categories.FirstOrDefaultAsync(c => c.Slug == slug1);
+                if (category == null)
+                {
+                    category = new Category
+                    {
+                        Id = cat["id"]?.ToString(),
+                        Name = cat["name"]?.ToString(),
+                        Slug = slug1
+                    };
+                    _context.categories.Add(category);
+                }
+                filmData.Categories.Add(category);
             }
 
+            // Process countries
             var countryObjs = movie["country"]?.ToObject<List<JObject>>() ?? new List<JObject>();
             filmData.Countries = new List<Country>();
             foreach (var c in countryObjs)
@@ -127,6 +100,7 @@ namespace Aris3._0.Controllers
                 filmData.Countries.Add(existingCountry);
             }
 
+            // Process episodes
             filmData.Episodes = new List<Episode>();
             foreach (var server in episodes)
             {
@@ -148,10 +122,40 @@ namespace Aris3._0.Controllers
                     }
                 }
             }
-
+            //Process Director
+            filmData.Directors = new List<Director>();
+            var directorNames = movie["director"]?.ToObject<List<string>>() ?? new List<string>();
+            foreach (var dirName in directorNames)
+            {
+                var existingDirector = await _context.Directors.FirstOrDefaultAsync(d => d.Name == dirName);
+                if (existingDirector == null)
+                {
+                    existingDirector = new Director
+                    {
+                        Name = dirName
+                    };
+                    _context.Directors.Add(existingDirector);
+                }
+                filmData.Directors.Add(existingDirector);
+            }
+            // Process Actors
+            filmData.Actors = new List<Actor>();
+            var actorNames = movie["actor"]?.ToObject<List<string>>() ?? new List<string>();
+            foreach (var act in actorNames)
+            {
+                var actor = await _context.Actors.FirstOrDefaultAsync(c => c.Name == act);
+                if (actor == null)
+                {
+                    actor = new Actor
+                    {
+                        Name = act
+                    };
+                    _context.Actors.Add(actor);
+                }
+                filmData.Actors.Add(actor);
+            }
             if (existingFilm != null)
             {
-                //  Update fields except Tmdb
                 existingFilm.Name = filmData.Name;
                 existingFilm.Slug = filmData.Slug;
                 existingFilm.OriginName = filmData.OriginName;
@@ -173,11 +177,8 @@ namespace Aris3._0.Controllers
                 existingFilm.Showtimes = filmData.Showtimes;
                 existingFilm.Year = filmData.Year;
                 existingFilm.View = filmData.View;
-                existingFilm.Director = filmData.Director;
                 existingFilm.Created = filmData.Created;
                 existingFilm.Modified = filmData.Modified;
-
-                // Update navigation properties
                 existingFilm.Actors = filmData.Actors;
                 existingFilm.Categories = filmData.Categories;
                 existingFilm.Countries = filmData.Countries;
@@ -191,8 +192,13 @@ namespace Aris3._0.Controllers
             }
 
             await _context.SaveChangesAsync();
-            return Ok(filmData);
+            return Ok(new
+            {
+                msg = "Add film success",
+                data = filmData
+            });
         }
+        
         [HttpPost]
         public async Task<IActionResult> GetAllNewUpdatedFilmToDb()
         {
@@ -251,24 +257,6 @@ namespace Aris3._0.Controllers
                     .FirstOrDefaultAsync(f => f.Tmdb != null && f.Tmdb.Id == tmbdId);
 
                 var filmData = movie.ToObject<Film>();
-                // Process Actors
-                var actorNames = movie["category"]?.ToObject<List<JObject>>() ?? new List<JObject>();
-                filmData.Actors = new List<Actor>();
-                foreach (var act in actorNames)
-                {
-                    var name1 = act["name"]?.ToString();
-                    Actor actor;
-                    actor = await _context.Actors.FirstOrDefaultAsync(c => c.Name == name1);
-                    if (actor == null)
-                    {
-                        actor = new Actor
-                        {
-                            Name = act["name"]?.ToString(),
-                        };
-                        _context.Actors.Add(actor);
-                    }
-                    filmData.Actors.Add(actor);
-                }
                 // Process categories
                 var categoryObjs = movie["category"]?.ToObject<List<JObject>>() ?? new List<JObject>();
                 filmData.Categories = new List<Category>();
@@ -328,7 +316,38 @@ namespace Aris3._0.Controllers
                         }
                     }
                 }
-
+                //Process Director
+                filmData.Directors = new List<Director>();
+                var directorNames = movie["director"]?.ToObject<List<string>>() ?? new List<string>();
+                foreach (var dirName in directorNames)
+                {
+                    var existingDirector = await _context.Directors.FirstOrDefaultAsync(d => d.Name == dirName);
+                    if (existingDirector == null)
+                    {
+                        existingDirector = new Director
+                        {
+                            Name = dirName
+                        };
+                        _context.Directors.Add(existingDirector);
+                    }
+                    filmData.Directors.Add(existingDirector);
+                }
+                // Process Actors
+                filmData.Actors = new List<Actor>();
+                var actorNames = movie["actor"]?.ToObject<List<string>>() ?? new List<string>();
+                foreach (var act in actorNames)
+                {
+                    var actor = await _context.Actors.FirstOrDefaultAsync(c => c.Name == act);
+                    if (actor == null)
+                    {
+                        actor = new Actor
+                        {
+                            Name = act
+                        };
+                        _context.Actors.Add(actor);
+                    }
+                    filmData.Actors.Add(actor);
+                }
                 if (existingFilm != null)
                 {
                     existingFilm.Name = filmData.Name;

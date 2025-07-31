@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Data\Repositories\" />
-    <Folder Include="Migrations\" />
     <Folder Include="Security\" />
   </ItemGroup>
 

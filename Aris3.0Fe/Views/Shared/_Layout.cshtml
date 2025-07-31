@@ -1,35 +1,51 @@
-﻿<!DOCTYPE html>
+﻿@model List<Aris3._0Fe.Models.Film>
+@{
+    var posterUrls = Model.Select(m => m.PosterUrl).ToList();
+}
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Aris3._0Fe</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewData["Title"] - Aris3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Aris3._0Fe</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+    <div class="banner-top" id="bannerTop" style="background-image: url('@posterUrls[0]'); background-size: cover; background-position: center -400px; min-height: 100vh;radial-gradient(circle, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 1) 75%, black 100%);">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark position-fixed w-100 top-0 z-3 navbar-blend" style="min-height:3rem;max-height:5rem;height:4.5rem" id="mainNavbar">
+                <div class="container-fluid d-flex align-items-center gap-3">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Aris3</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="input-container">
+                        <i class="bi bi-search"></i>
+                        <input type="text" placeholder="Tìm bằng tên phim hoặc tên diễn viên"/>
+                    </div>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1 gap-4">
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Chủ đề</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                   data-bs-toggle="dropdown" aria-expanded="false">
+                                    Thể loai
+                                </a>
+                                @await Component.InvokeAsync("CategoryDropdown")
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Phim lẻ</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
+            </nav>
+        </header>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -37,9 +53,28 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - Aris3._0Fe - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - Aris3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <script>
+        const posterUrls = @Html.Raw(Json.Serialize(posterUrls));
+        let currentIndex = 0;
+        const banner = document.getElementById("bannerTop");
+
+        setInterval(() => {
+            currentIndex = (currentIndex + 1) % posterUrls.length;
+            banner.style.backgroundImage = `url('${posterUrls[currentIndex]}')`;
+        }, 600000);
+        window.addEventListener("scroll", function () {
+           const navbar = document.getElementById("mainNavbar");
+           const scrollTop = window.scrollY || document.documentElement.scrollTop;
+            if (scrollTop > 0) {
+                navbar.classList.add("scrolled"); // When scrolling down
+            } else {
+                navbar.classList.remove("scrolled"); // When back at the top
+            }
+        });
+    </script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

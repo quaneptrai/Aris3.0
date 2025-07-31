@@ -1,3 +1,4 @@
+using Aris3._0.Infrastructure.Data.Context;
 using Aris3._0Fe.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -9,16 +10,19 @@ namespace Aris3._0Fe.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ArisDbContext dbContext;
         private readonly HttpClient _httpClient;
-        public HomeController(ILogger<HomeController> logger, IHttpClientFactory httpClientFactory)
+        public HomeController(ILogger<HomeController> logger, IHttpClientFactory httpClientFactory,ArisDbContext dbContext)
         {
             _httpClient = httpClientFactory.CreateClient();
             _logger = logger;
+            this.dbContext = dbContext;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var listFilm = dbContext.Films.ToList();
+            return View(listFilm);
         }
 
         public IActionResult Privacy()

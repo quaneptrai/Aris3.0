@@ -188,13 +188,6 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.Property<int>("Createdid")
                         .HasColumnType("int");
 
-                    b.Property<string>("Director")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("DirectorId")
-                        .HasColumnType("int");
-
                     b.Property<string>("EpisodeCurrent")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -276,8 +269,6 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("Createdid");
-
-                    b.HasIndex("DirectorId");
 
                     b.HasIndex("Modifiedid");
 
@@ -401,6 +392,21 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("FilmCategories", (string)null);
                 });
 
+            modelBuilder.Entity("DirectorFilm", b =>
+                {
+                    b.Property<int>("DirectorsId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("FilmsId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("DirectorsId", "FilmsId");
+
+                    b.HasIndex("FilmsId");
+
+                    b.ToTable("DirectorFilms", (string)null);
+                });
+
             modelBuilder.Entity("ActorFilm", b =>
                 {
                     b.HasOne("Aris3._0.Domain.Entities.Actor", null)
@@ -441,10 +447,6 @@ namespace Aris3._0.Infrastructure.Migrations
                         .HasForeignKey("Createdid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.HasOne("Aris3._0.Domain.Entities.Director", null)
-                        .WithMany("Films")
-                        .HasForeignKey("DirectorId");
 
                     b.HasOne("Aris3._0.Domain.Entities.Modified", "Modified")
                         .WithMany()
@@ -500,9 +502,19 @@ namespace Aris3._0.Infrastructure.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Director", b =>
+            modelBuilder.Entity("DirectorFilm", b =>
                 {
-                    b.Navigation("Films");
+                    b.HasOne("Aris3._0.Domain.Entities.Director", null)
+                        .WithMany()
+                        .HasForeignKey("DirectorsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Aris3._0.Domain.Entities.Film", null)
+                        .WithMany()
+                        .HasForeignKey("FilmsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Aris3._0.Domain.Entities.Film", b =>

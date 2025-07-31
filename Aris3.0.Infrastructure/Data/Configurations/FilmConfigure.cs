@@ -22,6 +22,9 @@ namespace Aris3._0.Infrastructure.Data.Configurations
             builder.HasMany(f => f.Actors)
                    .WithMany(a => a.Films)
                    .UsingEntity(j => j.ToTable("ActorFilms"));
+            builder.HasMany(f => f.Directors)
+                  .WithMany(a => a.Films)
+                  .UsingEntity(j => j.ToTable("DirectorFilms"));
         }
     }
 }

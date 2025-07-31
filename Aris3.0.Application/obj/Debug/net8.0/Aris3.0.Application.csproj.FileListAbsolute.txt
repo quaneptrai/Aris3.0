@@ -33,3 +33,21 @@ C:\New folder (2)\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\refint\Aris3.0.Ap
 C:\New folder (2)\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.pdb
 C:\New folder (2)\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.genruntimeconfig.cache
 C:\New folder (2)\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\ref\Aris3.0.Application.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Application.deps.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Application.runtimeconfig.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Application.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Application.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.csproj.AssemblyReference.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.AssemblyInfoInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.AssemblyInfo.cs
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.csproj.CoreCompileInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.sourcelink.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0..AA2E0E25.Up2Date
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\refint\Aris3.0.Application.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\Aris3.0.Application.genruntimeconfig.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Application\obj\Debug\net8.0\ref\Aris3.0.Application.dll

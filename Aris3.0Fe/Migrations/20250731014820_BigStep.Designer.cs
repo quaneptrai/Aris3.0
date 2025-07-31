@@ -9,11 +9,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Aris3._0.Infrastructure.Migrations
+namespace Aris3._0Fe.Migrations
 {
     [DbContext(typeof(ArisDbContext))]
-    [Migration("20250730144719_DbInitialized")]
-    partial class DbInitialized
+    [Migration("20250731014820_BigStep")]
+    partial class BigStep
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,10 +37,10 @@ namespace Aris3._0.Infrastructure.Migrations
 
                     b.HasIndex("FilmsId");
 
-                    b.ToTable("ActorFilms", (string)null);
+                    b.ToTable("ActorFilm");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Actor", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Actor", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -57,7 +57,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Actors");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Category", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Category", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -75,7 +75,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("categories");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Country", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Country", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -99,7 +99,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Countries");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Created", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Created", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -116,7 +116,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("created");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Director", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Director", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -133,7 +133,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Directors");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Episode", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Episode", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -176,7 +176,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Episodes");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Film", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Film", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -289,7 +289,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Films");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Modified", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Modified", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -306,7 +306,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("modified");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Server", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Server", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -328,7 +328,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("Servers");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.ServerData", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.ServerData", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -366,7 +366,7 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.ToTable("ServerDatas");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Tmbd", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Tmbd", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -401,34 +401,34 @@ namespace Aris3._0.Infrastructure.Migrations
 
                     b.HasIndex("FilmsId");
 
-                    b.ToTable("FilmCategories", (string)null);
+                    b.ToTable("CategoryFilm");
                 });
 
             modelBuilder.Entity("ActorFilm", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Actor", null)
+                    b.HasOne("Aris3._0Fe.Models.Actor", null)
                         .WithMany()
                         .HasForeignKey("Actorsid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Aris3._0.Domain.Entities.Film", null)
+                    b.HasOne("Aris3._0Fe.Models.Film", null)
                         .WithMany()
                         .HasForeignKey("FilmsId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Country", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Country", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Film", null)
+                    b.HasOne("Aris3._0Fe.Models.Film", null)
                         .WithMany("Countries")
                         .HasForeignKey("FilmId");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Episode", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Episode", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Film", "Film")
+                    b.HasOne("Aris3._0Fe.Models.Film", "Film")
                         .WithMany("Episodes")
                         .HasForeignKey("FilmId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -437,25 +437,25 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.Navigation("Film");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Film", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Film", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Created", "Created")
+                    b.HasOne("Aris3._0Fe.Models.Created", "Created")
                         .WithMany()
                         .HasForeignKey("Createdid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Aris3._0.Domain.Entities.Director", null)
+                    b.HasOne("Aris3._0Fe.Models.Director", null)
                         .WithMany("Films")
                         .HasForeignKey("DirectorId");
 
-                    b.HasOne("Aris3._0.Domain.Entities.Modified", "Modified")
+                    b.HasOne("Aris3._0Fe.Models.Modified", "Modified")
                         .WithMany()
                         .HasForeignKey("Modifiedid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Aris3._0.Domain.Entities.Tmbd", "Tmdb")
+                    b.HasOne("Aris3._0Fe.Models.Tmbd", "Tmdb")
                         .WithMany()
                         .HasForeignKey("TmdbId");
 
@@ -466,9 +466,9 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.Navigation("Tmdb");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Server", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Server", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Episode", "Episode")
+                    b.HasOne("Aris3._0Fe.Models.Episode", "Episode")
                         .WithMany()
                         .HasForeignKey("EpisodeId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -477,9 +477,9 @@ namespace Aris3._0.Infrastructure.Migrations
                     b.Navigation("Episode");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.ServerData", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.ServerData", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Server", "Server")
+                    b.HasOne("Aris3._0Fe.Models.Server", "Server")
                         .WithMany("ServerDataList")
                         .HasForeignKey("ServerId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -490,32 +490,32 @@ namespace Aris3._0.Infrastructure.Migrations
 
             modelBuilder.Entity("CategoryFilm", b =>
                 {
-                    b.HasOne("Aris3._0.Domain.Entities.Category", null)
+                    b.HasOne("Aris3._0Fe.Models.Category", null)
                         .WithMany()
                         .HasForeignKey("CategoriesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Aris3._0.Domain.Entities.Film", null)
+                    b.HasOne("Aris3._0Fe.Models.Film", null)
                         .WithMany()
                         .HasForeignKey("FilmsId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Director", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Director", b =>
                 {
                     b.Navigation("Films");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Film", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Film", b =>
                 {
                     b.Navigation("Countries");
 
                     b.Navigation("Episodes");
                 });
 
-            modelBuilder.Entity("Aris3._0.Domain.Entities.Server", b =>
+            modelBuilder.Entity("Aris3._0Fe.Models.Server", b =>
                 {
                     b.Navigation("ServerDataList");
                 });

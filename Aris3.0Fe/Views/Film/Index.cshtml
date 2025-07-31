@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+@model List<Episode>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Episode List</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+        }
+
+        .center-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .episode {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-wrapper">
+        @foreach (var item in Model)
+        {
+            <div class="episode">
+                <h2>@item.Name</h2>
+                <p>@item.LinkM3U8</p>
+            </div>
+        }
+    </div>
+</body>
+</html>

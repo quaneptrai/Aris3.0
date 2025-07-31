@@ -55,10 +55,8 @@ namespace Aris3._0.Domain.Entities
         public int? Year { get; set; }
         [JsonProperty("view")]
         public int View { get; set; }
-        [JsonProperty("director")]
-        public List<string> Director { get; set; } = new List<string>();
+        public ICollection<Director> Directors { get; set; } = new List<Director>();
         public ICollection<Actor> Actors { get; set; } = new List<Actor>();
-
 
         public ICollection<Category> Categories { get; set; } = new List<Category>();
         public ICollection<Country> Countries { get; set; } = new List<Country>();
