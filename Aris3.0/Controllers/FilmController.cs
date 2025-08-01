@@ -34,26 +34,29 @@ namespace Aris3._0.Controllers
                 return StatusCode((int)response.StatusCode, "Failed to fetch data");
 
             var content = await response.Content.ReadAsStringAsync();
-            return Ok(content);
+            var json = JObject.Parse(content);
+
+            return Ok(json);
         }
-        [HttpPost]
-        [Route("slug/{slug}")]
-        public async Task<IActionResult> GetFilmToDb(string slug)
+        [HttpPost("Get-Film-To-Db-By-Slug")]
+        public async Task<IActionResult> GetFilmToDbBySlug(string slug)
         {
             HttpResponseMessage response = await client.GetAsync($"https://phimapi.com/phim/{slug}");
             if (!response.IsSuccessStatusCode)
-                return BadRequest("Failed to fetch data !");
+                return StatusCode((int)response.StatusCode,"Failed to fetch data");
 
             var content = await response.Content.ReadAsStringAsync();
             var jObj = JObject.Parse(content);
             var movie = jObj["movie"];
             if (movie == null)
-                return BadRequest("No Film Found !");
+                return BadRequest("No Film Detect In Api");
 
             var tmbdToken = movie["tmdb"];
             var tmbdId = tmbdToken?["id"]?.ToString();
             var episodes = jObj["episodes"];
 
+            if (string.IsNullOrEmpty(tmbdId))
+                return BadRequest("Cant add film with null tmbdid");
 
             var existingFilm = await _context.Films
                 .Include(f => f.Actors)
@@ -194,11 +197,9 @@ namespace Aris3._0.Controllers
             await _context.SaveChangesAsync();
             return Ok(new
             {
-                msg = "Add film success",
-                data = filmData
+                msg = "Success adding film"
             });
         }
-        
         [HttpPost]
         public async Task<IActionResult> GetAllNewUpdatedFilmToDb()
         {

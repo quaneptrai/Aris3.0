@@ -18,7 +18,7 @@ namespace Aris3._0.Infrastructure.Data.Configurations
             builder.HasKey(a => a.Id);
             builder.HasMany(f => f.Categories)
                   .WithMany(c => c.Films)
-                  .UsingEntity(j => j.ToTable("FilmCategories"));
+                  .UsingEntity(j => j.ToTable("CategoryFilm"));
             builder.HasMany(f => f.Actors)
                    .WithMany(a => a.Films)
                    .UsingEntity(j => j.ToTable("ActorFilms"));

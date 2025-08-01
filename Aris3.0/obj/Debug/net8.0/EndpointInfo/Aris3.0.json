@@ -47,7 +47,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/Film/Get-Film-To-Db-By-Slug": {
       "post": {
         "tags": [
           "Film"
@@ -55,8 +57,7 @@
         "parameters": [
           {
             "name": "slug",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "string"
             }

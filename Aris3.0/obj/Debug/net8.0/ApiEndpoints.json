@@ -41,25 +41,25 @@
   },
   {
     "ContainingType": "Aris3._0.Controllers.FilmController",
-    "Method": "GetFilmsBySlug",
-    "RelativePath": "api/Film/slug/{slug}",
-    "HttpMethod": "GET",
+    "Method": "GetFilmToDbBySlug",
+    "RelativePath": "api/Film/Get-Film-To-Db-By-Slug",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "slug",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "Aris3._0.Controllers.FilmController",
-    "Method": "GetFilmToDb",
+    "Method": "GetFilmsBySlug",
     "RelativePath": "api/Film/slug/{slug}",
-    "HttpMethod": "POST",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [

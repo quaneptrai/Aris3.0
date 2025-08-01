@@ -2,10 +2,11 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+@media (max-width: 768px) {
+    .button-group {
+        flex-direction: row; /* or column if needed */
+        margin-top: 1rem;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -16,7 +17,6 @@ html {
   position: relative;
   min-height: 100%;
 }
-
 body {
   margin-bottom: 60px;
 }
@@ -84,15 +84,7 @@ button.accept-policy {
  z-index: -1;
  pointer-events: none;
 }
-.media-title {
-    position: absolute;
-    display:flex;
-    flex-direction:column;
-    bottom: 30rem;
-    left: 1rem;
-    color: white;
-    gap:5px;
-}
+
 .film-name{
     color:gold;
     font-size:2rem;
@@ -127,17 +119,19 @@ button.accept-policy {
 .btn-play i {
     width: 80px;
     height: 80px;
-    font-size: 4rem; 
+    font-size: 4rem;
+    position: relative;
+    top: -6px;
     text-align: center;
 }
 
 .btn-play {
     background-color: rgb(254, 205, 89);
-    margin-top: 30px;
+    margin-top: 10px;
     border-radius: 90%;
     border:none;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     transition: background-color 0.5s linear, box-shadow 0.5s ease-in-out;
     box-shadow: 0 0 10px rgba(254, 207, 89, 0.4);
 }
@@ -156,6 +150,18 @@ button.accept-policy {
     border: none;
     background-color: transparent
 }
+.btn-infor i {
+    width: 30px;
+    height: 30px;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.btn-infor {
+    border: none;
+    background-color: transparent;
+}
 .input-container input {
     width: 100%;
     padding: 10px 10px 10px 35px;
@@ -168,10 +174,56 @@ button.accept-policy {
 color: white; 
 opacity: 1; 
   }
-.btn-group {
+.hero-section {
     position: absolute;
+    bottom:100px;
+    left: 0;
+}
+.film-content {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    color: #fff; /* ensure text is readable */
+    padding: 1rem; /* spacing for better layout */
+    border-radius: 8px; /* optional: smooth corners */
+    font-size: 1rem;
+    overflow: visible;
+}
+.media-title {
     display: flex;
     flex-direction: column;
-    bottom: 10rem;
-    left: 1rem;
+    justify-content: flex-end;
+    color: white;
+    padding: 2rem 3rem;
+    z-index: 3;
+    max-width: 600px;
+    position: relative;
+    bottom: unset;
+    left: unset;
+    gap:10px;
 }
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+    position: relative
+}
+.button-group-2 {
+    margin-top: 0.5rem; /* remove duplicate */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+}
+
+.button-group-2 i {
+    color: white;
+    transition: color 0.5s ease-in-out;
+    background: transparent;
+    border: none;
+ }
+ .button-group-2 i:hover {
+    color: darkgoldenrod;
+  }

@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/ArisNewGen/Aris3.0/Aris3.0Fe/Views/Film/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/ArisNewGen/Aris3.0/Aris3.0Fe/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

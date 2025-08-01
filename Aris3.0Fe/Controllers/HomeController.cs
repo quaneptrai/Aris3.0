@@ -1,6 +1,7 @@
 using Aris3._0.Infrastructure.Data.Context;
 using Aris3._0Fe.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using System.Diagnostics;
 using System.Net.Http;
@@ -22,6 +23,7 @@ namespace Aris3._0Fe.Controllers
         public IActionResult Index()
         {
             var listFilm = dbContext.Films.ToList();
+            ViewBag.FilmList = listFilm;
             return View(listFilm);
         }
 
@@ -35,7 +37,7 @@ namespace Aris3._0Fe.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-        [HttpGet]
+        [HttpPost]
         public async Task<IActionResult> GetAllFilmToDb()
         {
             var response = await _httpClient.PostAsync("https://localhost:7248/api/film", null);
@@ -44,8 +46,5 @@ namespace Aris3._0Fe.Controllers
 
             return RedirectToAction("Index");
         }
-
-
-
     }
 }
