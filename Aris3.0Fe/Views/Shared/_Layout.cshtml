@@ -1,0 +1,237 @@
+﻿@model List<Film>
+@{
+    var thumbUrls = Model.Select(f => f.ThumbUrl).ToList();
+    var MostWatchFilm = Model.OrderByDescending(f => f.View)
+                             .Take(20)
+                             .ToList();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Aris3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="banner-top ps-5" id="bannerTop" style="background: radial-gradient(circle, rgba(255,255,255,0.2) 0%, rgba(0,0,0,0.6) 60%, rgba(0,0,0,0.9) 80%, black 100%);position:relative; background-size: cover; background-position: center; min-height: 100vh;">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark position-fixed w-100 top-0 z-3 navbar-blend" style="min-height:3rem;max-height:5rem;height:4.5rem;font-size:1.25rem" id="mainNavbar">
+                <div class="container-fluid d-flex align-items-center gap-3">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="font-size:3rem;font-family:roboto;color:red;font-weight:bold">Aris3</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <form asp-controller="Film" asp-action="Search" method="get" class="input-container">
+                        <i class="bi bi-search"></i>
+                        <input type="text" name="searchQuery" placeholder="Tìm bằng tên phim hoặc tên diễn viên" />
+                    </form>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1 gap-4">
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Chủ đề</a>
+                            </li>
+                            <li class="nav-item dropdown text-light">
+                                <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                                   data-bs-toggle="dropdown" aria-expanded="false">
+                                    Thể loai
+                                </a>
+                                @await Component.InvokeAsync("CategoryDropdown")
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-controller="Film" asp-action="Search">Phim lẻ</a>
+                            </li>
+                            <li class="nav-item dropdown text-light">
+                                <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button"
+                                   data-bs-toggle="dropdown" aria-expanded="false">
+                                    Quốc gia
+                                </a>
+                                @await Component.InvokeAsync("CountryDropdown")
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="d-flex align-items-center me-5">
+                        <a href="@Url.Action("Login", "Account")" class="btn btn-outline-light d-flex align-items-center gap-2">
+                            <span style="font-size:1.25rem;">Thành viên</span>
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main role="main" class="pb-5">
+            @RenderBody()
+        </main>
+    </div>
+    <section id="body" class="bg-black" style="padding-top:3rem;padding-bottom:3rem">
+   <div class="ps-5">
+    <h1 class="text-light" style="padding-bottom:50px">New updated film</h1>
+    <div class="film-courseal">
+   @foreach (var item in Model.Take(20))
+    {
+    <div style="position: relative; display: inline-block;padding-bottom:5rem">
+        <a href="@Url.Action("Index", "Film", new { id = item.Id })">
+            <img src="@item.ThumbUrl"
+                 class="img-fluid rounded"
+                 style="height: 250px; object-fit: cover; border-radius: 15%; border: 0.5px solid white;" />
+        </a>
+
+        <a href="@Url.Action("Index", "Film", new { id = item.Id })"
+           style="position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
+            <h5 style="margin: 0; font-size: 30px;color:red">A</h5>
+        </a>
+    </div>
+     }
+    </div>
+   <div>
+    <h1 class="text-light"style="padding-bottom:30px">Most Watched Film</h1>
+    <div class="film-courseal-mostwatched">
+        @for (int i = 0 ;i < MostWatchFilm.Count() ; i++)
+        {
+            var item = MostWatchFilm[i];
+            <div style="position: relative; display: inline-block; padding-bottom: 5rem;">
+                <a href="@Url.Action("Index", "Film", new { id = item.Id })">
+                    <img src="@item.PosterUrl"
+                         class="img-fluid rounded"
+                         style="height: 750px;width:450px ;object-fit: cover; border-radius: 15%; border: 0.5px solid white;" />
+                </a>
+                <a href="@Url.Action("Index", "Film", new { id = item.Id })"
+                   style="position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
+                    <h5 style="margin: 0; font-size: 30px; color: red;">A</h5>
+                </a>
+                <div style="position: absolute;
+                            bottom: 60px;
+                            right: -60px;
+                            font-size: 5rem;
+                            font-weight: 900;
+                            color: rgba(255, 255, 255, 1); /* white with opacity */
+                            z-index:2;
+                            pointer-events: none;
+                            ">
+                            @(i + 1)
+                </div>
+
+            </div>
+        }
+    </div>
+</div>
+
+    </section>
+    <footer class="border-top bg-black footer text-muted">
+        <div class="container bg-black text-black">
+            &copy; 2025 - Aris3 -
+        </div>
+    </footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const thumbUrls = @Html.Raw(Json.Serialize(Model.Select(f => f.ThumbUrl).ToList()));
+            let currentIndex = thumbUrls.length - 1;
+            const banner = document.getElementById("bannerTop");
+
+            if (thumbUrls.length > 0 && banner) {
+                banner.style.backgroundImage = `url('${thumbUrls[currentIndex]}')`;
+
+                setInterval(() => {
+                    currentIndex = (currentIndex - 1 + thumbUrls.length) % thumbUrls.length;
+                    banner.style.backgroundImage = `url('${thumbUrls[currentIndex]}')`;
+                }, 600000);
+            }
+
+            const navbar = document.getElementById("mainNavbar");
+
+            if (navbar) {
+                window.addEventListener("scroll", function () {
+                    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+                    if (scrollTop > 0) {
+                        navbar.classList.add("scrolled");
+                    } else {
+                        navbar.classList.remove("scrolled");
+                    }
+                });
+            }
+        });
+        document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+  });
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+  <script>
+         $('.film-courseal').slick({
+          arrows:false,
+          autoplaySpeed: 1000,
+          autoplay:true,
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          responsive: [
+            {
+              breakpoint: 1024,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+              }
+            },
+            {
+              breakpoint: 600,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+              }
+            },
+            {
+              breakpoint: 480,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+              }
+            }
+          ]
+        });
+        $('.film-courseal-mostwatched').slick({
+        arrows: false,
+        autoplaySpeed: 1000,
+        autoplay: true,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+       responsive: [
+            {
+              breakpoint: 1024,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+              }
+            },
+            {
+              breakpoint: 600,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+              }
+            },
+            {
+              breakpoint: 480,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+              }
+            }
+          ]
+        });
+</script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

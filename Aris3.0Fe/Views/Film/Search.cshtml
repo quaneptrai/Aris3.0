@@ -1,0 +1,481 @@
+﻿@model List<Film>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoPhim - Phim hay có rồi</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <style>
+        :root {
+            --primary-bg: #000;
+            --secondary-bg: #000;
+            --accent-color: #ffd700;
+            --text-primary: #ffffff;
+            --text-secondary: #b8bcc8;
+            --text-logo: red;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--primary-bg);
+            color: var(--text-primary);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+        }
+
+        .navbar-custom {
+            background-color: var(--secondary-bg);
+            padding: 0.8rem 0;
+            border-bottom: 1px solid #3a3d4a;
+        }
+
+        .navbar-brand {
+            font-size: 2rem !important;
+            font-weight: bold;
+            color: var(--text-logo) !important;
+        }
+
+        .navbar-nav .nav-link {
+            color: var(--text-secondary) !important;
+            margin: 0 10px;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+            .navbar-nav .nav-link:hover {
+                color: var(--text-primary) !important;
+            }
+
+        .search-container {
+            position: relative;
+            max-width: 300px;
+        }
+
+        .search-input {
+            background-color: var(--primary-bg);
+            border: 1px solid #3a3d4a;
+            color: var(--text-primary);
+            border-radius: 20px;
+            padding: 8px 40px 8px 15px;
+            width: 125%;
+        }
+
+            .search-input::placeholder {
+                color: var(--text-secondary);
+            }
+
+        .search-btn {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+        }
+
+        .user-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .user-avatar {
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #ff6b6b, #ffd93d);
+        }
+
+        .btn-member {
+            background-color: var(--accent-color);
+            color: #000;
+            border: none;
+            border-radius: 20px;
+            padding: 8px 20px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .btn-member:hover {
+                background-color: #ffed4e;
+                color: #000;
+            }
+
+        .promo-banner {
+            background: linear-gradient(135deg, #2a2d3a, #1a1d29);
+            border: 1px solid #3a3d4a;
+            border-radius: 10px;
+            margin: 30px 0;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+            .promo-banner::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="%23ffffff" opacity="0.1"/><circle cx="75" cy="75" r="1" fill="%23ffffff" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+                opacity: 0.3;
+            }
+
+        .promo-content {
+            position: relative;
+            z-index: 2;
+        }
+
+        .promo-text {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .promo-subtext {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .search-results-header {
+            left:5rem;
+            margin: 10px 0;
+            padding-left: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+            .search-results-header h2 {
+                font-size: 1.3rem;
+                margin: 0;
+            }
+
+        .filter-tabs {
+            display: flex;
+            gap: 10px;
+            margin: 20px 0;
+        }
+
+        .filter-tab {
+            background-color: var(--secondary-bg);
+            color: var(--text-secondary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 20px;
+            transition: all 0.3s ease;
+        }
+
+            .filter-tab.active {
+                background-color: var(--text-primary);
+                color: var(--primary-bg);
+            }
+
+        .movie-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .movie-card {
+            background-color: var(--secondary-bg);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+        }
+
+            .movie-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+            }
+
+        .movie-poster {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            position: relative;
+        }
+
+        .movie-quality {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: var(--accent-color);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .movie-info {
+            padding: 15px;
+        }
+
+        .movie-title {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+            line-height: 1.3;
+        }
+
+        .movie-subtitle {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            line-height: 1.2;
+        }
+
+        .bottom-banner {
+            padding: 15px;
+            border-radius: 10px;
+            margin: 40px 0 20px 0;
+            text-align: center;
+            font-weight: bold;
+            position: relative;
+        }
+
+        .close-banner {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 1.2rem;
+            color: #000;
+            cursor: pointer;
+        }
+
+        .top-banner{
+            padding:5rem;
+        }
+        @@media (max-width: 768px) {
+            .navbar-nav
+
+        {
+            margin-top: 15px;
+        }
+
+        .search-container {
+            margin: 15px 0;
+            max-width: 100%;
+        }
+
+        .movie-grid {
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+        }
+
+        .promo-text {
+            font-size: 1.2rem;
+        }
+
+        }
+
+        .custom-container{
+            display: flex;
+            gap: 20px; 
+            align-items: center;
+            width: 100%;
+            padding: 0 2rem; 
+        }
+
+        .input-container input {
+            width: 125%;
+            padding: 10px 10px 10px 35px;
+            border: 1px solid transparent;
+            border-radius: 5px;
+            background-color: rgba(255, 255, 255, 0.3);
+            color: white;
+        }
+
+            .input-container input::placeholder {
+                color: white;
+                opacity: 1;
+            }
+
+        .input-container {
+            position: relative;
+            width: 100%;
+            max-width: 200px;
+        }
+
+            .input-container i {
+                position: absolute;
+                left: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                color: white;
+            }
+
+        .movie-poster{
+            width:200px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-custom fixed-top">
+        <div class="container-fluid">
+                <div class="d-flex align-items-center w-100 justify-content-between">
+                    <!-- Left side: logo + input -->
+                    <div class="d-flex align-items-center gap-3">
+                        <a asp-controller="Home" asp-action="Index" class="navbar-brand">Aris</a>
+                        <form asp-controller="Film" asp-action="Search" method="get" class="input-container">
+                            <i class="bi bi-search"></i>
+                            <input type="text" name="searchQuery" placeholder="Tìm bằng tên phim hoặc tên diễn viên" />
+                        </form>
+                    <div class="collapse navbar-collapse ps-lg-5" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Chủ Đề</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                                    Thể loại
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Hành động</a></li>
+                                    <li><a class="dropdown-item" href="#">Kinh dị</a></li>
+                                    <li><a class="dropdown-item" href="#">Hài hước</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Phim Lẻ</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Phim Bộ</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">
+                                    <span class="badge text-dark me-1" style="background-color:#ffd875">NEW</span>Xem Chung
+                                </a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                                    Quốc gia
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Việt Nam</a></li>
+                                    <li><a class="dropdown-item" href="#">Hàn Quốc</a></li>
+                                    <li><a class="dropdown-item" href="#">Mỹ</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Diễn Viên</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Lịch chiếu</a>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+
+                    <!-- Right side: navbar nav -->
+                </div>
+            </div>
+            <div class="user-section">
+                <div class="d-none d-md-flex flex-column">
+                    <small class="text-white"style="white-space:nowrap">Tải ứng dụng</small>
+                    <small class="text-white"><strong>Aris</strong> </small>
+                </div>
+                <button class="btn btn-member">
+                    Thành viên
+                </button>
+            </div>
+        </div>
+    </nav>
+        <div class="top-banner">
+
+        </div>
+        <!-- Search Results -->
+        <div class="container align-content-center">
+        <div class="search-results-header">
+            <h2>Kết quả tìm kiếm <span id="search-key"></span></h2>
+        </div>
+
+        <!-- Filter Tabs -->
+        <div class="filter-tabs">
+            <button class="filter-tab active">Phim</button>
+            <button class="filter-tab">Diễn viên</button>
+        </div>
+
+        <!-- Filter Options -->
+        <div class="mb-5">
+            <button class="btn btn-outline-light btn-sm me-2">
+                <i class="fas fa-filter me-1"></i>
+                Bộ lọc
+            </button>
+        </div>
+
+        <!-- Movie Grid -->
+    <div class="movie-grid d-flex flex-wrap gap-3">
+        @foreach (var item in Model)
+        {
+            var queryParams = $"?id={item.Id}&posterurl={item.PosterUrl}&name={item.Name}&origin_name={item.OriginName}";
+            <div class="movie-card" style="width:200px">
+                <div class="position-relative">
+                    <a style="text-decoration:none" href="@Url.Action("Index", "Film")@queryParams">
+                    <img src="@item.PosterUrl" alt="@item.Name" class="movie-poster" />
+                    </a>
+                    <span class="movie-quality">FHD</span>
+                </div>
+                <div class="movie-info">
+                    <a style="text-decoration:none;color:white" href="@Url.Action("Index", "Film")@queryParams">
+                    <div class="movie-title" style="max-width:200px">@item.Name</div>
+                    <div class="movie-subtitle">@item.OriginName</div>
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+    </div>
+
+        <!-- Bottom Banner -->
+        <div class="bottom-banner">
+           
+        </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Close banner functionality
+        document.querySelector('.close-banner').addEventListener('click', function() {
+            this.parentElement.style.display = 'none';
+        });
+
+        // Filter tab functionality
+        document.querySelectorAll('.filter-tab').forEach(tab => {
+            tab.addEventListener('click', function() {
+                document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+
+        // Movie card hover effects
+        document.querySelectorAll('.movie-card').forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-5px)';
+            });
+
+            card.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0)';
+            });
+        });
+         document.querySelector("#search-key").textContent="@ViewBag.TuKhoa";
+    </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿@model List<Country>
+<div class="dropdown-menu p-3 text-light" style="min-width: 200px;">
+    <div class="row">
+            <div class="col">
+                <ul class="list-unstyled">
+                    @foreach (var country in Model)
+                    {
+                        <li>
+                        <a class="dropdown-item" asp-controller="Film" asp-action="Search" asp-route-id="@country.Id">
+                            @country.Name
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+    </div>
+</div>
+<style>
+    .dropdown-menu {
+        background-color: black;
+        color: white !important;
+        font-size: 1.2rem;
+    }
+
+        .dropdown-menu .dropdown-item {
+            color: white !important;
+        }
+
+            .dropdown-menu .dropdown-item:hover,
+            .dropdown-menu .dropdown-item:focus {
+                color: darkgoldenrod !important;
+                background-color: transparent;
+            }
+</style>

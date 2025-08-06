@@ -1,0 +1,597 @@
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.AssemblyReference.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfoInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfo.cs
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.CoreCompileInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.MvcApplicationPartsAssemblyInfo.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cs
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.runtime.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.endpoints.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.exe
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.deps.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.runtimeconfig.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.pdb
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Core.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Identity.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Humanizer.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.ClientModel.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\bundle\Aris3.0Fe.styles.css
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\projectbundle\Aris3.0Fe.bundle.scp.css
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.Up2Date
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\refint\Aris3.0Fe.dll
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.pdb
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.genruntimeconfig.cache
+C:\Aris3.0\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\ref\Aris3.0Fe.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.runtime.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.endpoints.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.exe
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.deps.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.runtimeconfig.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.pdb
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Core.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Identity.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Humanizer.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.ClientModel.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.CodeDom.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Memory.Data.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.AssemblyReference.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfoInputs.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfo.cs
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cs
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.sourcelink.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\bundle\Aris3.0Fe.styles.css
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\projectbundle\Aris3.0Fe.bundle.scp.css
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.development.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets\msbuild.Aris3.0Fe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets\msbuild.Aris3.0Fe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets\msbuild.build.Aris3.0Fe.props
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Aris3.0Fe.props
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Aris3.0Fe.props
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.Up2Date
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\refint\Aris3.0Fe.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.pdb
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.genruntimeconfig.cache
+C:\New folder (2)\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\ref\Aris3.0Fe.dll
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\appsettings.Development.json
+C:\New folder (2)\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\appsettings.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\appsettings.Development.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\appsettings.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.runtime.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.endpoints.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.exe
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.deps.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.runtimeconfig.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Core.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Azure.Identity.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Humanizer.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.ClientModel.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.CodeDom.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.AssemblyReference.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfoInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfo.cs
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.CoreCompileInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.MvcApplicationPartsAssemblyInfo.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cs
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.sourcelink.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\bundle\Aris3.0Fe.styles.css
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\scopedcss\projectbundle\Aris3.0Fe.bundle.scp.css
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.development.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.Up2Date
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\refint\Aris3.0Fe.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.genruntimeconfig.cache
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\obj\Debug\net8.0\ref\Aris3.0Fe.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\AutoMapper.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\ArisNewGen\Aris3.0\Aris3.0Fe\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\appsettings.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.runtime.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.staticwebassets.endpoints.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.exe
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.deps.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.runtimeconfig.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0Fe.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.AssemblyReference.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfoInputs.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.AssemblyInfo.cs
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.CoreCompileInputs.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.RazorAssemblyInfo.cs
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\scopedcss\bundle\Aris3.0Fe.styles.css
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\scopedcss\projectbundle\Aris3.0Fe.bundle.scp.css
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.csproj.Up2Date
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\refint\Aris3.0Fe.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\Aris3.0Fe.genruntimeconfig.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0Fe\obj\Debug\net8.0\ref\Aris3.0Fe.dll

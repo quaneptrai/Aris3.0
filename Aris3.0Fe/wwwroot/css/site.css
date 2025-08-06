@@ -1,0 +1,247 @@
+html {
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    .button-group {
+        flex-direction: row; /* or column if needed */
+        margin-top: 1rem;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a {
+    color: #0077cc;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+.header-bg {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navbar-blend {
+    position: relative;
+    z-index: 10;
+}
+.navbar-blend::before {
+ content: "";
+ position: absolute;
+ inset: 0;
+ background-color:transparent;
+ mix-blend-mode: multiply;
+ z-index: -1;
+ pointer-events: none;
+}
+
+.film-name{
+    color:red;
+    font-size:2rem;
+}
+.banner-top {
+    position: relative;
+}
+.content {
+    width: 500px; 
+    height: 50px; 
+    color: #f1f1f1;
+    font-size: 1rem;
+}
+.scrolled {
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: background-color 0.3s ease;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+.input-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.input-container i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+}
+.btn-play i {
+    font-size: 40px; /* Large icon */
+    line-height: 1; /* Prevent vertical misalignment */
+    color: white;
+    transition: color 0.5s linear;
+}
+
+.btn-play {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px; /* adds spacing between icon and text */
+    background-color: red;
+    margin-top: 10px;
+    border: none;
+    width: 180px;
+    height: 50px;
+    transition: background-color 0.5s linear, box-shadow 0.5s ease-in-out;
+    box-shadow: 0 0 10px rgba(254, 207, 89, 0.4);
+}
+
+    .btn-play h5 {
+        margin: 0;
+        line-height: 1;
+        font-size: 18px;
+        color: white;
+        transition: color 0.5s linear;
+    }
+.btn-love i {
+    width: 30px;
+    height: 30px;
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+}
+.btn-play:hover h5,
+.btn-play:hover i {
+    color: black;
+}
+.btn-play:hover {
+    background-color: white;
+    box-shadow: 0 0 25px rgba(254, 207, 89, 0.9), 0 0 50px rgba(254, 207, 89, 0.6), 0 0 75px rgba(254, 207, 89, 0.4);
+}
+.btn-love {
+    border: none;
+    background-color: transparent
+}
+.btn-infor i {
+    width: 30px;
+    height: 30px;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.btn-infor {
+    border: none;
+    background-color: transparent;
+}
+.input-container input {
+    width: 100%;
+    padding: 10px 10px 10px 35px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+}
+.input-container input::placeholder {
+color: white; 
+opacity: 1; 
+  }
+.hero-section {
+    position: absolute;
+    bottom:100px;
+    left: 0;
+}
+.film-content {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    font-family:roboto;
+    color: #fff; /* ensure text is readable */
+    padding: 1rem; /* spacing for better layout */
+    border-radius: 8px; /* optional: smooth corners */
+    font-size: 1.25rem;
+    overflow: visible;
+}
+.media-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    padding: 2rem 3rem;
+    z-index: 2;
+    max-width: 600px;
+    position: relative;
+    bottom: unset;
+    left: unset;
+    gap:10px;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+    position: relative
+}
+.button-group-2 {
+    margin-top: 0.5rem; /* remove duplicate */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+    border: 1px solid white;
+    padding:2px 10px 2px 10px;
+    border-radius: 15%;
+}
+
+.button-group-2 i {
+    font-size:2rem;
+    color: white;
+    transition: color 0.5s ease-in-out;
+    background: transparent;
+    border: none;
+ }
+ .button-group-2 i:hover {
+    color: red;
+  }

@@ -1,0 +1,56 @@
+﻿@model List<Film>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="hero-section d-flex align-items-end">
+    <div class="media-title">
+        <label class="film-name" id="film-name"></label>
+        <div class="film-content" id="film-content"></div>
+
+        <div class="button-group d-flex flex-row align-items-center gap-3 mt-5">
+            <a id="play-button" class="btn btn-play">
+                <i class="bi bi-play-fill"></i>
+                <h5 style="font-family:roboto;font-weight:800">Watch</h5>
+            </a>
+            <div class="button-group-2">
+                <button class="btn-love">
+                    <i class="bi bi-suit-heart-fill"></i>
+                </button>
+                <button class="btn-infor">
+                    <i class="bi bi-info-circle-fill"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    const films = @Html.Raw(Json.Serialize(Model));
+    console.log(films);
+    let index = films.length-1;
+
+    function showFilm(i) {
+        if (!films[i]) return;
+        document.getElementById('film-name').textContent = films[i].name;
+
+        let content = films[i].content || '';
+        content = content.replace(/["']/g, '').trim();
+        const maxLength = 400;
+        if (content.length > maxLength) {
+            content = content.substring(0, maxLength).trim() + '...';
+        }
+        document.getElementById('film-content').textContent = content;
+
+        document.getElementById('play-button').href = '@Url.Action("Index", "Film")?id=' + encodeURIComponent(films[i].id);
+    }
+
+    showFilm(index);
+
+    setInterval(() => {
+        index = (index - 1) % films.length;
+        showFilm(index);
+    }, 600000); 
+</script>

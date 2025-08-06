@@ -1,0 +1,72 @@
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.deps.json
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.runtimeconfig.json
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.AssemblyReference.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfoInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfo.cs
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\refint\Aris3.0.Infrastructure.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.genruntimeconfig.cache
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\ref\Aris3.0.Infrastructure.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Aris3.0\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0..A29583DC.Up2Date
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.deps.json
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.runtimeconfig.json
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.AssemblyReference.cache
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfoInputs.cache
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfo.cs
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.sourcelink.json
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0..A29583DC.Up2Date
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\refint\Aris3.0.Infrastructure.dll
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.genruntimeconfig.cache
+C:\New folder (2)\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\ref\Aris3.0.Infrastructure.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.deps.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.runtimeconfig.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.AssemblyReference.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfoInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfo.cs
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.sourcelink.json
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0..A29583DC.Up2Date
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\refint\Aris3.0.Infrastructure.dll
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.genruntimeconfig.cache
+C:\ArisNewGen\Aris3.0\Aris3.0.Infrastructure\obj\Debug\net8.0\ref\Aris3.0.Infrastructure.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.deps.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.runtimeconfig.json
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Domain.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.AssemblyInfo.cs
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0..A29583DC.Up2Date
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\refint\Aris3.0.Infrastructure.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.pdb
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\Aris3.0.Infrastructure.genruntimeconfig.cache
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\obj\Debug\net8.0\ref\Aris3.0.Infrastructure.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Application.dll
+C:\Users\quandm1\Downloads\Aris3.0-main\Aris3.0.Infrastructure\bin\Debug\net8.0\Aris3.0.Application.pdb

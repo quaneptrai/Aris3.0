@@ -1,0 +1,46 @@
+﻿@model List<Category>
+
+@{
+    int totalColumns = 3;
+    int itemsPerColumn = (int)Math.Ceiling((double)Model.Count / totalColumns);
+    var columns = Model
+        .Select((category, index) => new { category, index })
+        .GroupBy(x => x.index / itemsPerColumn)
+        .Select(g => g.Select(x => x.category).ToList())
+        .ToList();
+}
+
+<div class="dropdown-menu p-3 text-light" style="min-width: 600px;">
+    <div class="row">
+        @foreach (var column in columns)
+        {
+            <div class="col">
+                <ul class="list-unstyled">
+                    @foreach (var category in column)
+                    {
+                        <li>
+                            <a class="dropdown-item" asp-controller="Category" asp-action="Details" asp-route-id="@category.Id">
+                                @category.Name
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+</div>
+<style>
+.dropdown-menu {
+  background-color: black;
+  color: white !important;
+  font-size:1.2rem;
+ }
+ .dropdown-menu .dropdown-item {
+  color: white !important;
+}
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+    color: darkgoldenrod !important;
+    background-color: transparent;
+  }
+</style>

@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\film\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\film\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\services\\addnewfilmtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.domain\\entities\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\viewcomponents\\countrydropdownviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\viewcomponents\\countrydropdownviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\service\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\service\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\service\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\service\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\ifilmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\ifilmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\data\\configurations\\filmconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\configurations\\filmconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\idirectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\idirectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\directorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\directorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\interface\\repositories\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\interface\\repositories\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\aris3.0.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\aris3.0.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\aris3.0.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\aris3.0.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\dtos\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\shared\\components\\countrydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\components\\countrydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\models\\director.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\models\\director.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0fe\\views\\shared\\components\\categorydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46202F9A-D1B4-41CF-A5B2-A25F2B26C2D6}|Aris3.0Fe\\Aris3.0Fe.csproj|solutionrelative:aris3.0fe\\views\\shared\\components\\categorydropdown\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5B22B8-0D4E-4EE2-B044-A6BA5D6F40BE}|Aris3.0.Domain\\Aris3.0.Domain.csproj|solutionrelative:aris3.0.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\users\\quandm1\\downloads\\aris3.0-main\\aris3.0.infrastructure\\migrations\\20250804094019_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\migrations\\20250804094019_dbinitialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:16:01.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T04:52:28.513Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250806094502_AddColumnLikeToFilm.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250806094502_AddColumnLikeToFilm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:45:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewFilmToDb.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Services\\AddNewFilmToDb.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:49:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T02:25:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Aris3.0Fe\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-01T02:22:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Film\\Search.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Film\\Search.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Film\\Search.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Film\\Search.cshtml",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAuwLwBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T07:36:56.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryDropdownViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\ViewComponents\\CountryDropdownViewComponent.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\ViewComponents\\CountryDropdownViewComponent.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\ViewComponents\\CountryDropdownViewComponent.cs",
+              "RelativeToolTip": "Aris3.0Fe\\ViewComponents\\CountryDropdownViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:28:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:46:19.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:31:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Film.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Film.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Film.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Film.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:39:20.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Film.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Models\\Film.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwDoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:41:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Service\\FilmService.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Service\\FilmService.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Service\\FilmService.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Service\\FilmService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:18:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Service\\CategoryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:44:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFilmService.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Service\\IFilmService.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Service\\IFilmService.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Service\\IFilmService.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Service\\IFilmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:53:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Aris3.0\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:43:42.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:05:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFilmRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IFilmRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\IFilmRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IFilmRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\IFilmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:51:05.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:10:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:05:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Aris3.0\\Controllers\\FilmController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:05:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:04:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IActorRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\IActorRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IActorRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\IActorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T04:42:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:04:19.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Program.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0\\Program.cs",
+              "RelativeToolTip": "Aris3.0\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:29:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FilmConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Configurations\\FilmConfigure.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:43:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:31:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:09:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDirectorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IDirectorRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\IDirectorRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\IDirectorRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\IDirectorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T04:10:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FilmRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\FilmRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\FilmRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\FilmRepository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\FilmRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:02:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\ActorRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\ActorRepository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\ActorRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T04:42:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DirectorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\DirectorRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\DirectorRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\DirectorRepository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\DirectorRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T04:17:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Repositories\\CountryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:47:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Interface\\Repositories\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Interface\\Repositories\\ICountryRepository.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Interface\\Repositories\\ICountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:45:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Aris3.0.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T02:14:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Aris3.0.Application",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Aris3.0.Application.csproj",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Aris3.0.Application.csproj",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\Aris3.0.Application.csproj",
+              "RelativeToolTip": "Aris3.0.Application\\Aris3.0.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T02:13:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FilmDto.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\DTOs\\FilmDto.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\DTOs\\FilmDto.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\DTOs\\FilmDto.cs",
+              "RelativeToolTip": "Aris3.0.Application\\DTOs\\FilmDto.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:34:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:35:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Country.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:35:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\Components\\CountryDropdown\\Default.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\Components\\CountryDropdown\\Default.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\Components\\CountryDropdown\\Default.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\Components\\CountryDropdown\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T09:31:21.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Director.cs.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Director.cs.cs",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Models\\Director.cs.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Models\\Director.cs.cs",
+              "RelativeToolTip": "Aris3.0Fe\\Models\\Director.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:23:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeDocumentMoniker": "Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeToolTip": "Aris3.0Fe\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T02:59:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.JSModules.targets",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAqwLMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-01T04:27:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Director.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Domain\\Entities\\Director.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Domain\\Entities\\Director.cs",
+              "RelativeToolTip": "Aris3.0.Domain\\Entities\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:39:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250804094019_Dbinitialized.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Migrations\\20250804094019_Dbinitialized.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Migrations\\20250804094019_Dbinitialized.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Infrastructure\\Migrations\\20250804094019_Dbinitialized.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Migrations\\20250804094019_Dbinitialized.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:40:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\quandm1\\Downloads\\Aris3.0-main\\Aris3.0.Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Aris3.0.Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:53:32.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
